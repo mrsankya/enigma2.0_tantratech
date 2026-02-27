@@ -1,0 +1,5 @@
+{
+  "name": "Sehat Mitra 2.0",
+  "description": "AI-powered Cancer Risk Stratification & Preventive Intelligence Platform for India.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
